@@ -19,16 +19,16 @@ a{
     height: 429px;
 }
 .pic1{
-    background-image: url("../images/1.jpg");
+    background-image: url("../images/1.png");
 }
 .pic2{
-    background-image: url("../images/2.jpg");
+    background-image: url("../images/2.png");
 }
 .pic3{
-    background-image: url("../images/3.jpg");
+    background-image: url("../images/3.png");
 }
 .pic ul .pic4{
-    background-image: url("../images/4.jpg");
+    background-image: url("../images/4.png");
     width: 789px;
 }
 .txt{
